@@ -1,0 +1,53 @@
+spinel:left sceneBT:center protagonists:right
+:2:bfTalk:0.05:normal:Beep bap?!
+:0:spinelfsTalk:0.05:normal:I just...
+:0:spinelTalk:0.05:normal:I feel so much better!
+:0:spinelTalk:0.05:normal:Thank you so much you...
+:0:spinelTalk:0.05:normal:...
+:0:spinelTalk:0.05:normal:..you never told me your name
+:2:bfTalk:0.05:normal:Boop!
+:0:spinelTalk:0.05:normal:i think i'll never understand you \nbut thats fine!
+:2:gfTalk:0.05:normal:(I think I already have an idea to get out \nof here)
+:2:gfTalk:0.05:normal:(but i'll need ketchup...)
+:1:sceneone:0.05:normal:Thank you so much for the singing battle!
+:1:sceneone:0.05:normal:inclusive now we can be best frien-
+:1:scenetwo:0.05:normal:...w-wait
+:1:scenethree:0.05:normal:them...
+:1:scenethree:0.05:normal:they just leave...
+:1:scenethree:0.05:normal:just like how she...
+:1:scenefour:0.05:normal:oh no...
+:1:scenefour:0.04:normal:OH NO! NO! NO!
+:1:scenefour:0.03:normal:¡¿WHY EVERYONE LEAVE WITHOUT ME?!
+:1:scenefour:0.05:normal:IM ONLY JUST A THING THAT YOU CAN \nPUT WAY?!
+:1:scenefour:0.04:normal:IM NOT SUPPOSTED TO BE ALONE \nIM MADE FOR NOT BEING ALONE
+:1:scenefive:0.05:normal:*Girlfriend of course is blood that \nis using to make a pentagram,no ketchup \nof course (?)
+:1:scenefive:0.05:normal:*uuuuh very satanic (?*
+:1:scenefive:0.05:normal:*But this one did not work as it should and \ninstead of taking them out of the garden \nhe brought them a familiar face*
+:1:scenesix:0.05:normal:*Pico has entered the game!*
+:1:scenesix:0.05:normal:Pico?!
+:1:scenesix:0.05:normal:What are you doing here?! asked Boyfriend
+:1:scenesix:0.05:normal:I don't even know how I got here
+:1:scenesix:0.05:normal:I only know that I was with a strange gray \nbeing.
+:1:sceneseven:0.05:normal:*Meanwhile spinel was not so well*
+:1:sceneseven:0.03:normal:NO! NO! NO! NO!
+:1:sceneseven:0.05:normal:THEY ARE GOING TO ABANDON ME!
+:1:sceneseven:0.05:normal:THE SAME AS PINK MADE IT!
+:1:sceneseven:0.05:normal:I DO NOT WANT TO BE ALONE AGAIN!
+:1:sceneseven:0.05:normal:NOT AGAIN!
+:1:sceneeight:0.05:normal:*...and in the farthest part of the garden*
+:1:scenenine:0.05:normal:*...a strange giant object known as The \nInjector lights up...*
+:1:sceneten:0.05:normal:*and with spinel...*
+:1:sceneten:0.05:normal:*full of hatred and resentment...*
+:1:sceneten:0.05:normal:they are go in to know ..
+:1:sceneten:0.05:normal:*...and with a new look.*
+:1:sceneten:0.05:normal:im gonna make them notice who am i...
+:1:sceneten:0.05:normal:*Drops his last toy.*
+:1:sceneeleven:0.05:normal:*As she launch her injector in the middle \nof the portal.*
+:1:sceneeleven:0.05:normal:Boyfriend try to make spinel tell him \nwhat is that
+:1:sceneeleven:0.05:normal:...is that your new friend?
+:1:scenetwelve:0.05:normal:OH!
+:1:scenetwelve:0.05:normal:NOW IT'S THREE OF YOU!
+:1:scenetwelve:0.05:normal:blue one ..
+:1:scenetwelve:0.05:normal:i just wanted to be friends and you \njust make me have hope..
+:1:scenetwelve:0.05:normal:that is not right .. you have to be good with \nyours...
+:1:scenethirteen:0.05:normal:OTHER FRIENDS!

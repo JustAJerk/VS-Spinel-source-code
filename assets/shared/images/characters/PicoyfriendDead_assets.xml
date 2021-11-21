@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PicoyfriendDead_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Picoyfriend DEAD Confirm0000" x="1" y="1" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0001" x="655" y="1" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0002" x="1309" y="1" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0003" x="1963" y="1" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0004" x="2617" y="1" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0005" x="3271" y="1" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0006" x="1" y="464" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0007" x="655" y="464" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0008" x="1309" y="464" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0009" x="1963" y="464" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0010" x="2617" y="464" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0011" x="3271" y="464" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0012" x="1" y="927" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0013" x="655" y="927" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0014" x="1309" y="927" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0015" x="1963" y="927" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0016" x="2617" y="927" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0017" x="3271" y="927" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0018" x="1" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0019" x="655" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0020" x="1309" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0021" x="1963" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0022" x="1963" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0023" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0024" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0025" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0026" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0027" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0028" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0029" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0030" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0031" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0032" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Confirm0033" x="2617" y="1390" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD First0000" x="1" y="1853" width="1152" height="1058" frameX="-6" frameY="0" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0001" x="1154" y="1853" width="1020" height="929" frameX="-280" frameY="-82" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0002" x="2175" y="1853" width="1096" height="886" frameX="-293" frameY="-95" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0003" x="1" y="2912" width="1082" height="1076" frameX="-254" frameY="-200" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0004" x="1084" y="2912" width="1035" height="1107" frameX="-256" frameY="-369" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0005" x="2120" y="2912" width="971" height="886" frameX="-206" frameY="-642" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0006" x="1" y="4020" width="1598" height="987" frameX="0" frameY="-585" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0007" x="1600" y="4020" width="659" height="473" frameX="-939" frameY="-649" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0008" x="2260" y="4020" width="653" height="472" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0009" x="2914" y="4020" width="664" height="482" frameX="-934" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0010" x="2914" y="4020" width="664" height="482" frameX="-934" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0011" x="1" y="5008" width="658" height="496" frameX="-940" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0012" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0013" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0014" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0015" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0016" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0017" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0018" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0019" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0020" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0021" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0022" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0023" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0024" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0025" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0026" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0027" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0028" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0029" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0030" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0031" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0032" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0033" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0034" x="660" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0035" x="1314" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0036" x="1968" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0037" x="2622" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0038" x="3276" y="5008" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0039" x="1" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0040" x="655" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0041" x="1309" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0042" x="1963" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0043" x="2617" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0044" x="3271" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0045" x="3271" y="5505" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0046" x="1" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0047" x="655" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0048" x="655" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0049" x="1" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0050" x="1309" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0051" x="1309" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0052" x="1309" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0053" x="1963" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0054" x="2617" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0055" x="3271" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0056" x="3271" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD First0057" x="3271" y="5968" width="653" height="462" frameX="-945" frameY="-650" frameWidth="1598" frameHeight="1572"/>
+	<SubTexture name="Picoyfriend DEAD Loop0000" x="1" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0001" x="655" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0002" x="655" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0003" x="1309" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0004" x="1309" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0005" x="1963" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0006" x="1963" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0007" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0008" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0009" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0010" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0011" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0012" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0013" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0014" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0015" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0016" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0017" x="1" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0018" x="655" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0019" x="655" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0020" x="1309" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0021" x="1309" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0022" x="1963" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0023" x="1963" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0024" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0025" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0026" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0027" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0028" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0029" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0030" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0031" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0032" x="2617" y="6431" width="653" height="462"/>
+	<SubTexture name="Picoyfriend DEAD Loop0033" x="2617" y="6431" width="653" height="462"/>
+</TextureAtlas>

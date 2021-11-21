@@ -1,0 +1,6 @@
+i know... i know... make a sprite sheet for all scenes its not a good idea... but the game crash if i code the scenes by separated.
+
+
+
+
+yeah... poopy english x'd

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu diff arrows.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Arrow Idle0000" x="1" y="1" width="64" height="42"/>
+	<SubTexture name="Down Arrow Select0000" x="1" y="44" width="64" height="42"/>
+	<SubTexture name="Up Arrow Idle0000" x="1" y="87" width="64" height="42"/>
+	<SubTexture name="Up Arrow Select0000" x="1" y="130" width="64" height="42"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+bf
+gf
+spinel-happy
+spinel-depressed
+spinel-regular
+spinel-evil
+spinel-beta
+bf-friendship
+gf-betrayed
+picoyfriend
+pico
+pico-player

@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Assets_Friendship.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10000" x="0" y="0" width="374" height="357" frameX="-1" frameY="-36" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10001" x="374" y="0" width="375" height="393" frameX="-2" frameY="0" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10002" x="374" y="0" width="375" height="393" frameX="-2" frameY="0" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10003" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10004" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10005" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10006" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10007" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10008" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10009" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10010" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10011" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10012" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10013" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10014" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10015" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10016" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10017" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10018" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10019" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10020" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10021" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10022" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10023" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10024" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10025" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10026" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10027" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS Friendship 10028" x="749" y="0" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10000" x="0" y="0" width="374" height="357" frameX="-2" frameY="-5" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10001" x="0" y="0" width="374" height="357" frameX="-2" frameY="-5" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10002" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10003" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10004" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10005" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10006" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10007" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10008" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10009" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10010" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10011" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10012" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10013" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10014" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10015" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10016" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10017" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10018" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10019" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10020" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10021" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10022" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10023" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10024" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10025" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10026" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10027" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10028" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE DOWN Friendship 10029" x="1127" y="0" width="374" height="362" frameX="0" frameY="0" frameWidth="376" frameHeight="362"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10000" x="1501" y="0" width="383" height="407" frameX="0" frameY="-26" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10001" x="0" y="407" width="369" height="431" frameX="-15" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10002" x="0" y="407" width="369" height="431" frameX="-15" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10003" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10004" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10005" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10006" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10007" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10008" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10009" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10010" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10011" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10012" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10013" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10014" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10015" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10016" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10017" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10018" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10019" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10020" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10021" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10022" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10023" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10024" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10025" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10026" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10027" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10028" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10029" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10030" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10031" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10032" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT MISS Friendship 10033" x="369" y="407" width="370" height="431" frameX="-13" frameY="0" frameWidth="384" frameHeight="433"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10000" x="739" y="407" width="383" height="407" frameX="0" frameY="0" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10001" x="739" y="407" width="383" height="407" frameX="0" frameY="0" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10002" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10003" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10004" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10005" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10006" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10007" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10008" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10009" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10010" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10011" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10012" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10013" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE LEFT Friendship 10014" x="1122" y="407" width="375" height="405" frameX="-10" frameY="-2" frameWidth="385" frameHeight="407"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10000" x="400" y="840" width="408" height="406" frameX="-7" frameY="-30" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10001" x="1497" y="407" width="396" height="433" frameX="0" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10002" x="1497" y="407" width="396" height="433" frameX="0" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10003" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10004" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10005" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10006" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10007" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10008" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10009" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10010" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10011" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10012" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10013" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10014" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10015" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10016" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10017" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10018" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10019" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10020" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10021" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10022" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10023" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10024" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10025" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10026" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10027" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10028" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10029" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10030" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10031" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10032" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10033" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10034" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10035" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10036" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10037" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10038" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10039" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10040" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10041" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10042" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10043" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10044" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT MISS Friendship 10045" x="0" y="840" width="400" height="433" frameX="-1" frameY="0" frameWidth="416" frameHeight="436"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10000" x="400" y="840" width="408" height="406" frameX="-1" frameY="-2" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10001" x="400" y="840" width="408" height="406" frameX="-1" frameY="-2" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10002" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10003" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10004" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10005" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10006" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10007" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10008" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10009" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10010" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10011" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10012" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10013" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10014" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10015" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10016" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10017" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10018" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10019" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10020" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10021" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10022" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10023" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10024" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10025" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10026" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10027" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10028" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10029" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10030" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10031" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10032" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10033" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10034" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10035" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10036" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10037" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10038" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10039" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10040" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10041" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10042" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10043" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10044" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10045" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10046" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10047" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10048" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10049" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10050" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10051" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10052" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10053" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10054" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10055" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10056" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10057" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10058" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10059" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10060" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE RIGHT Friendship 10061" x="808" y="840" width="407" height="408" frameX="0" frameY="0" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10000" x="1215" y="840" width="369" height="446" frameX="-10" frameY="0" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10001" x="1584" y="840" width="360" height="427" frameX="0" frameY="-13" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10002" x="1584" y="840" width="360" height="427" frameX="0" frameY="-13" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10003" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10004" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10005" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10006" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10007" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10008" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10009" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10010" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10011" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10012" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10013" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10014" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10015" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10016" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10017" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10018" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10019" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10020" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10021" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10022" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP MISS Friendship 10023" x="0" y="1286" width="356" height="430" frameX="-2" frameY="-10" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP Friendship 10000" x="1215" y="840" width="369" height="446" frameX="-5" frameY="0" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP Friendship 10001" x="1215" y="840" width="369" height="446" frameX="-5" frameY="0" frameWidth="379" frameHeight="446"/>
+	<SubTexture name="BF NOTE UP Friendship 10002" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10003" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10004" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10005" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10006" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10007" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10008" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10009" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10010" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10011" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10012" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10013" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP Friendship 10014" x="356" y="1286" width="375" height="441" frameX="0" frameY="-5" frameWidth="375" frameHeight="447"/>
+	<SubTexture name="BF idle dance Friendship 10000" x="731" y="1286" width="406" height="392" frameX="-1" frameY="-21" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10001" x="731" y="1286" width="406" height="392" frameX="-1" frameY="-21" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10002" x="1137" y="1286" width="408" height="395" frameX="0" frameY="-19" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10003" x="1137" y="1286" width="408" height="395" frameX="0" frameY="-19" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10004" x="1545" y="1286" width="405" height="400" frameX="-3" frameY="-14" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10005" x="1545" y="1286" width="405" height="400" frameX="-3" frameY="-14" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10006" x="0" y="1727" width="410" height="412" frameX="-1" frameY="-2" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10007" x="0" y="1727" width="410" height="412" frameX="-1" frameY="-2" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10008" x="410" y="1727" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10009" x="410" y="1727" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10010" x="410" y="1727" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10011" x="410" y="1727" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10012" x="410" y="1727" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance Friendship 10013" x="410" y="1727" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+Friends:placeholder:0xFFFF6370
+Flowers:placeholder:0xFFB74750
+Friendship:placeholder:0xFFB74750
+Betrayed:placeholder:0xFF510C12
+Friends-Beta:placeholder:0xFFFF6370
