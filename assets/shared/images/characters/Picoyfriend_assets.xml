@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Picoyfriend_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Picoyfriend Down BF0000" x="1" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0001" x="1" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0002" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0003" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0004" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0005" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0006" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0007" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0008" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0009" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0010" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0011" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0012" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down BF0013" x="678" y="1" width="676" height="462"/>
+	<SubTexture name="Picoyfriend Down Pico0000" x="1355" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0001" x="1355" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0002" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0003" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0004" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0005" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0006" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0007" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0008" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0009" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0010" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0011" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0012" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Down Pico0013" x="2095" y="1" width="739" height="398"/>
+	<SubTexture name="Picoyfriend Idle0000" x="2835" y="1" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0001" x="1" y="471" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0002" x="726" y="471" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0003" x="1451" y="471" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0004" x="2176" y="471" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0005" x="2901" y="471" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0006" x="1" y="941" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0007" x="726" y="941" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0008" x="1451" y="941" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0009" x="2176" y="941" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0010" x="2901" y="941" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0011" x="1" y="1411" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0012" x="1" y="1411" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Idle0013" x="1" y="1411" width="724" height="469"/>
+	<SubTexture name="Picoyfriend Left BF0000" x="726" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0001" x="726" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0002" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0003" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0004" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0005" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0006" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0007" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0008" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0009" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0010" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0011" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0012" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left BF0013" x="1390" y="1411" width="663" height="462"/>
+	<SubTexture name="Picoyfriend Left Pico0000" x="2054" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0001" x="2054" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0002" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0003" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0004" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0005" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0006" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0007" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0008" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0009" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0010" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0011" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0012" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Left Pico0013" x="2756" y="1411" width="701" height="447"/>
+	<SubTexture name="Picoyfriend Miss Attack0000" x="1" y="1881" width="671" height="451"/>
+	<SubTexture name="Picoyfriend Miss Attack0001" x="1" y="1881" width="671" height="451"/>
+	<SubTexture name="Picoyfriend Miss Attack0002" x="673" y="1881" width="671" height="451"/>
+	<SubTexture name="Picoyfriend Miss Attack0003" x="673" y="1881" width="671" height="451"/>
+	<SubTexture name="Picoyfriend Miss Attack0004" x="1345" y="1881" width="671" height="451"/>
+	<SubTexture name="Picoyfriend Miss Attack0005" x="1345" y="1881" width="671" height="451"/>
+	<SubTexture name="Picoyfriend Miss Down0000" x="2017" y="1881" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0001" x="2017" y="1881" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0002" x="2771" y="1881" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0003" x="2771" y="1881" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0004" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0005" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0006" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0007" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0008" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0009" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0010" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0011" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0012" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Down0013" x="1" y="2333" width="753" height="438"/>
+	<SubTexture name="Picoyfriend Miss Left0000" x="755" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0001" x="755" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0002" x="1454" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0003" x="1454" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0004" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0005" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0006" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0007" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0008" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0009" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0010" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0011" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0012" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Left0013" x="2153" y="2333" width="698" height="477"/>
+	<SubTexture name="Picoyfriend Miss Right0000" x="2852" y="2333" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0001" x="2852" y="2333" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0002" x="1" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0003" x="1" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0004" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0005" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0006" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0007" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0008" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0009" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0010" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0011" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0012" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Right0013" x="675" y="2834" width="673" height="500"/>
+	<SubTexture name="Picoyfriend Miss Up0000" x="1349" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0001" x="1349" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0002" x="1991" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0003" x="1991" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0004" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0005" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0006" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0007" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0008" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0009" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0010" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0011" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0012" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Miss Up0013" x="2633" y="2834" width="641" height="555"/>
+	<SubTexture name="Picoyfriend Right BF0000" x="3275" y="2834" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0001" x="3275" y="2834" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0002" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0003" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0004" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0005" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0006" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0007" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0008" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0009" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0010" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0011" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0012" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right BF0013" x="1" y="3390" width="667" height="462"/>
+	<SubTexture name="Picoyfriend Right Pico0000" x="669" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0001" x="669" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0002" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0003" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0004" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0005" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0006" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0007" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0008" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0009" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0010" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0011" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0012" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Right Pico0013" x="1337" y="3390" width="667" height="472"/>
+	<SubTexture name="Picoyfriend Shoot0000" x="2005" y="3390" width="738" height="444"/>
+	<SubTexture name="Picoyfriend Shoot0001" x="2005" y="3390" width="738" height="444"/>
+	<SubTexture name="Picoyfriend Shoot0002" x="2744" y="3390" width="738" height="444"/>
+	<SubTexture name="Picoyfriend Shoot0003" x="2744" y="3390" width="738" height="444"/>
+	<SubTexture name="Picoyfriend Shoot0004" x="1" y="3863" width="738" height="444"/>
+	<SubTexture name="Picoyfriend Shoot0005" x="1" y="3863" width="738" height="444"/>
+	<SubTexture name="Picoyfriend Up BF0000" x="740" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0001" x="740" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0002" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0003" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0004" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0005" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0006" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0007" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0008" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0009" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0010" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0011" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0012" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up BF0013" x="1396" y="3863" width="655" height="462"/>
+	<SubTexture name="Picoyfriend Up Pico0000" x="2052" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0001" x="2052" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0002" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0003" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0004" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0005" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0006" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0007" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0008" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0009" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0010" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0011" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0012" x="2703" y="3863" width="650" height="528"/>
+	<SubTexture name="Picoyfriend Up Pico0013" x="2703" y="3863" width="650" height="528"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Protagonists_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf portrait heart idle0000" x="1" y="1" width="406" height="421"/>
+	<SubTexture name="bfFS portrait heart idle0000" x="1629" y="1" width="406" height="421"/>
+	<SubTexture name="gf portrait heart idle0000" x="1222" y="423" width="406" height="421"/>
+	<SubTexture name="pico portrait heart idle0000" x="815" y="845" width="406" height="421"/>
+</TextureAtlas>

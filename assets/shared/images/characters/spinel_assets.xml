@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spinel_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spinel Down0000" x="1" y="1" width="690" height="609"/>
+	<SubTexture name="Spinel Down0001" x="692" y="1" width="690" height="609"/>
+	<SubTexture name="Spinel Down0002" x="1383" y="1" width="690" height="609"/>
+	<SubTexture name="Spinel Down0003" x="2074" y="1" width="690" height="609"/>
+	<SubTexture name="Spinel Idle0000" x="2765" y="1" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0001" x="3214" y="1" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0002" x="1" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0003" x="450" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0004" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0005" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0006" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0007" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0008" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0009" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0010" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Idle0011" x="899" y="806" width="448" height="804"/>
+	<SubTexture name="Spinel Left0000" x="1348" y="806" width="618" height="698"/>
+	<SubTexture name="Spinel Left0001" x="1967" y="806" width="618" height="698"/>
+	<SubTexture name="Spinel Left0002" x="2586" y="806" width="618" height="698"/>
+	<SubTexture name="Spinel Left0003" x="3205" y="806" width="618" height="698"/>
+	<SubTexture name="Spinel Right0000" x="1" y="1611" width="714" height="718"/>
+	<SubTexture name="Spinel Right0001" x="716" y="1611" width="714" height="718"/>
+	<SubTexture name="Spinel Right0002" x="1431" y="1611" width="714" height="718"/>
+	<SubTexture name="Spinel Right0003" x="2146" y="1611" width="714" height="718"/>
+	<SubTexture name="Spinel Up0000" x="2861" y="1611" width="629" height="860"/>
+	<SubTexture name="Spinel Up0001" x="1" y="2472" width="629" height="860"/>
+	<SubTexture name="Spinel Up0002" x="631" y="2472" width="629" height="860"/>
+	<SubTexture name="Spinel Up0003" x="1261" y="2472" width="629" height="860"/>
+</TextureAtlas>

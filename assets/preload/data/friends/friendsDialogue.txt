@@ -1,0 +1,20 @@
+spinel:left sceneF:center protagonists:right
+:1:sceneone:0.05:normal:*Boyfriend and Pico finishing singing decide \nto join as allies again...*
+:1:scenetwo:0.05:normal:*Meanwhile Daddy Dearest watching from \nthe shadows*
+:1:scenethree:0.05:normal:Damn brats... so would you rather make friends \nwith the enemy?! that just not right.
+:1:scenethree:0.05:normal:Not even my own daughter will be saved from \nthis! 
+:1:scenethree:0.05:normal:This will teach them that not everyone is \nfriendly.
+:1:scenefour:0.05:normal:*Dad snaps his fingers sending bf and gf \nto another place*
+:1:scenefive:0.05:normal:*Meanwhile in other site...*
+:1:scenesix:0.05:normal:*Panic beep noises*
+:1:sceneseven:0.05:normal:where the fu- i mean Beep Boop...?
+:1:sceneeight:0.05:normal:*Deep in that strange place known as The \nnormal there would be a living being looking \nat them both*
+:0:spinelTalk:0.05:normal:Gee!!
+:2:bfTalk:0.05:normal:Beep?
+:0:spinelTalk:0.05:normal:A new friend to play!
+:0:spinelTalk:0.05:normal:My name is Spinel!
+:0:spinelTalk:0.05:normal:and i'm so excited to meet you!!
+:2:bfTalk:0.05:normal:Bip Boop!
+:0:spinelTalk:0.05:normal:A wait wha- is that a microphone?... \nyou like to sing too?!
+:2:bfTalk:0.05:normal:skereben boop baap!
+:0:spinelTalk:0.05:normal:huuh i dont know you what your speaking.. \nwe can play a song pretty pleasee?

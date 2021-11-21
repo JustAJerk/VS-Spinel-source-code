@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBoxesGarden.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speech bubble normal0000" x="1" y="1" width="1323" height="507" />
+	<SubTexture name="Speech Bubble Normal Open0000" x="1" y="509" width="1493" height="539"/>
+	<SubTexture name="Speech Bubble Normal Open0001" x="1" y="1049" width="1493" height="539"/>
+	<SubTexture name="Speech Bubble Normal Open0002" x="1" y="1589" width="1493" height="539"/>
+	<SubTexture name="Speech Bubble Normal Open0003" x="1" y="2129" width="1493" height="539"/>
+	<SubTexture name="Speech Bubble Normal Open0004" x="1" y="2669" width="1493" height="539"/>
+	<SubTexture name="Speech Bubble Normal Open0005" x="1" y="3209" width="1493" height="539"/>
+</TextureAtlas>

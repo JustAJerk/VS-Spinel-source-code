@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PICONOTE_assets.png">
+<SubTexture name="blueee0000" x="0" y="0" width="158" height="158" frameX="0" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="greennn0000" x="0" y="0" width="158" height="158" frameX="0" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="purple0000" x="0" y="0" width="158" height="158" frameX="0" frameY="0" frameWidth="158" frameHeight="158" />
+<SubTexture name="reddd0000" x="0" y="0" width="158" height="158" frameX="0" frameY="0" frameWidth="158" frameHeight="158" />
+</TextureAtlas>

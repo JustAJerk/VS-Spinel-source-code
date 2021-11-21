@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spinel_in_the_menu.png"><SubTexture name="Spinel Menu LOL0000" x="0" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0001" x="1284" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0002" x="2568" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0003" x="3852" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0004" x="0" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0005" x="1284" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0006" x="2568" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0007" x="3852" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0008" x="0" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0009" x="1284" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0010" x="2568" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0011" x="3852" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0012" x="0" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0013" x="1284" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0014" x="2568" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0015" x="3852" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0016" x="0" y="2896" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="Spinel Menu LOL0017" x="1284" y="2896" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+</TextureAtlas>

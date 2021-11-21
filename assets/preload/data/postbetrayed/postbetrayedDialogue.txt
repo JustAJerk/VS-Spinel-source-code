@@ -1,0 +1,9 @@
+scenePOST:center
+:0:sceneone:0.05:normal:YOU THINK YOU HAVE WON!!
+:0:sceneone:0.05:normal:THEY THINK THEY HAVE DEFEATED ME!
+:0:sceneone:0.05:normal:BUT IT'S NOT LIKE THAT!
+:0:sceneone:0.05:normal:I KNOW WHAT PINK DID!
+:0:sceneone:0.05:normal:I KNOW SHE GONE TO PLAY ON THAT \nPLANET CALLED EARTH!
+:0:sceneone:0.05:normal:BUT NOW IT WILL BE ME WHO GOES FOR HER!
+:0:scenetwo:0.05:normal:WE WILL SEE AGAIN...!!!
+:0:scenetwo:0.05:normal:( ...did she just make the transformation \nand the angry cliche thing? ..naaaah)

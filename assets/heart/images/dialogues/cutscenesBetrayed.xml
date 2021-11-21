@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cutscenesBetrayed.png">
+<SubTexture name="sceneOne0000" x="0" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneTwo0000" x="1284" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneThree0000" x="2568" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneFour0000" x="0" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneFive0000" x="1284" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneSix0000" x="2568" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneSeven0000" x="0" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneEight0000" x="1284" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneNine0000" x="2568" y="1448" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneTen0000" x="0" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneEleven0000" x="1284" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneTwelve0000" x="2568" y="2172" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneThirteen0000" x="0" y="2896" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="sceneEEEE0000" x="1284" y="2896" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+</TextureAtlas>

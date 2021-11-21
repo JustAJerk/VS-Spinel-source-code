@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpinyButtons.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits nothing0000" x="0" y="0" width="164" height="87"/>
+	<SubTexture name="credits star0000" x="264" y="0" width="164" height="87"/>
+	<SubTexture name="freeplay nothing0000" x="0" y="187" width="195" height="87"/>
+	<SubTexture name="freeplay star0000" x="295" y="187" width="195" height="87"/>
+	<SubTexture name="story_mode nothing0000" x="0" y="374" width="242" height="86"/>
+	<SubTexture name="story_mode star0000" x="0" y="560" width="240" height="87"/>
+	<SubTexture name="options nothing0000" x="0" y="747" width="176" height="87"/>
+	<SubTexture name="options star0000" x="276" y="747" width="176" height="87"/>
+</TextureAtlas>
