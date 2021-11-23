@@ -2233,6 +2233,9 @@ class PlayState extends MusicBeatState
 									case 4: //Pico
 									    health -= 0.10;
 										
+									case 5: //Spinel
+									    //nothing lmao
+										
 									default:
 										health -= 0.0475; //For testing purposes
 										songMisses++;
@@ -3236,6 +3239,8 @@ class PlayState extends MusicBeatState
 								spawnNoteSplashOnNote(note);
 							}
 							
+							health += 0.23;
+							
 	                        FlxG.sound.play(Paths.sound('shoot','heart'));
 							
 							if(boyfriend.animation.getByName('missShoot') != null) {
@@ -3264,9 +3269,9 @@ class PlayState extends MusicBeatState
 							--songMisses;
 							RecalculateRating();
 							if(!note.isSustainNote) {
-								health -= 100;
 								spawnNoteSplashOnNote(note);
 							}
+							health -= 0.20;	
 						}
 						note.wasGoodHit = true;
 						vocals.volume = 0;
